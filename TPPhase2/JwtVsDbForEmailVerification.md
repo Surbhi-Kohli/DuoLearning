@@ -1,4 +1,4 @@
-## Discussion between Ken and Dinesh for regarding email verification via DB lookup and Jwt tokens
+## Discussion between Ken and Dinesh regarding email verification via DB lookup and Jwt tokens
 
 Jet token vs db lookup:
 
